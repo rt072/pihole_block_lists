@@ -1,0 +1,118 @@
+# advertisment
+
+# don't know wich ad it was 1x
+	r17---sn-4g57knld.googlevideo.com
+	
+# audi-city.com 2x
+	 r1---sn-4g5e6nls.googlevideo.com
+
+# check24.de 21x (there are different ads from check24 and many domains)
+	 r1---sn-4g5ednls.googlevideo.com
+	 r2---sn-4g5e6n7d.googlevideo.com
+	 r2---sn-5hne6n7z.googlevideo.com
+	 r3---sn-4g57knzd.googlevideo.com
+	 r3---sn-4g5e6nes.googlevideo.com
+	 r3---sn-5hnednlk.googlevideo.com
+	 r4---sn-4g5ednle.googlevideo.com
+	 r6---sn-4g5e6n7r.googlevideo.com
+	 r6---sn-4g5edn7e.googlevideo.com
+	 r6---sn-4g5ednee.googlevideo.com
+	 r6---sn-5hne6nlr.googlevideo.com
+	 r6---sn-5hnednl7.googlevideo.com
+	 r8---sn-4g57knzz.googlevideo.com
+	 r9---sn-4g57knze.googlevideo.com
+	r13---sn-4g57knls.googlevideo.com
+	r15---sn-4g57kn67.googlevideo.com
+	r17---sn-4g57kn7s.googlevideo.com
+	r18---sn-5hne6nek.googlevideo.com
+	r20---sn-4g57knde.googlevideo.com
+
+# zattoo.com 1x
+	 r2---sn-4g57knek.googlevideo.com
+
+# tohoku-japan.jp 1x
+	 r5---sn-4g5edn7l.googlevideo.com
+
+# dein-neuer-lieblichsplatz.de 1x
+	 r1---sn-4g5e6ne6.googlevideo.com
+
+# one.com 1x
+	 r1---sn-4g5e6ney.googlevideo.com
+
+# hp.com 4x
+	 r2---sn-4g5e6n7k.googlevideo.com
+	r20---sn-5hne6n76.googlevideo.com
+	 r9---sn-4g57knsy.googlevideo.com
+	 
+# babbel.com 3x
+	 r6---sn-4g5ednle.googlevideo.com
+	 r6---sn-4g5e6nls.googlevideo.com
+	r15---sn-5hne6nl6.googlevideo.com
+
+# solidcam.de 1x
+	 r7---sn-4g57kndd.googlevideo.com
+
+# wix.com 1x
+	 r4---sn-5hnednlk.googlevideo.com
+
+# justwatch.com 4x
+	 r3---sn-4g5e6nez.googlevideo.com
+	 r5---sn-4g5ednle.googlevideo.com
+	 r4---sn-4g5e6n76.googlevideo.com
+	 r6---sn-4g5edn7y.googlevideo.com
+
+# bmw.de 1x
+	 r4---sn-4g57kney.googlevideo.com
+	 
+# reuter.de 3x
+	 r4---sn-4g5edn7z.googlevideo.com
+	 r8---sn-4g57knkr.googlevideo.com
+	r11---sn-5hne6nel.googlevideo.com
+	 
+# hse-mehode.com 3x
+	r13---sn-5hnedn7k.googlevideo.com
+	r15---sn-4g57knr7.googlevideo.com
+	r18---sn-4g57knkr.googlevideo.com
+
+# airbnb.de 3x
+	 r3---sn-4g5e6nls.googlevideo.com
+	 r4---sn-4g5edn7y.googlevideo.com
+	r13---sn-4g57knzl.googlevideo.com
+
+# nissan.de 2x
+	 r3---sn-4g5edne6.googlevideo.com
+	 r5---sn-4g57knl6.googlevideo.com
+	 
+# aircon 3x
+	 r1---sn-5hne6nlr.googlevideo.com
+	r19---sn-4g57knkz.googlevideo.com
+
+# youtube.com 4x
+	 r1---sn-5hne6ne6.googlevideo.com
+	 r2---sn-4g57knzk.googlevideo.com
+	 r4---sn-4g57kn7d.googlevideo.com
+	 r5---sn-4g5e6nl6.googlevideo.com
+
+# wellandslim.de 1x
+	 r4---sn-4g5e6nl7.googlevideo.com
+
+# wacom.com 1x
+	 r1---sn-4g57kndd.googlevideo.com
+	 
+# goneo.de 1x
+	 r5---sn-4g57kn6s.googlevideo.com
+	 
+# shop-apotheke.com 1x
+	 r1---sn-4g5ednll.googlevideo.com
+	 
+# samsung.com 1x
+	 r9---sn-5hne6n76.googlevideo.com
+	 
+# brillen.de 1x
+	r13---sn-4g57knlz.googlevideo.com
+	
+# vodafone.de 1x
+	r10---sn-4g57knkl.googlevideo.com
+	
+# trivago.de 1x
+	 r1---sn-4g57knek.googlevideo.com
